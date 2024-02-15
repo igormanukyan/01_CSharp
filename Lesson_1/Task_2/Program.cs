@@ -22,3 +22,14 @@ System.Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 System.Console.WriteLine(quotient2);
+
+
+/*ДЗ Вычислить значение формулы 𝑎×𝑏 , где a,b,c,d – некоторые
+𝑐+𝑑*/
+целые числа. Результат вывести на экран.
+double a = 3;
+double b = 9;
+double c = 4;
+double d = 3;
+double quotient3 = (a*b)/(c+d);
+System.Console.WriteLine(quotient3);
